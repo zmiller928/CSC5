@@ -1,0 +1,36 @@
+/*
+* File:	main.cpp
+* Author: 	Zachary Miller
+* Purpose:  Create a random number guessing game. The game will allow the user
+*		    customize the difficulty of the game by increasing the range at which
+*			the random number generator will pick 9between and lowering the amount
+*			of guesses you are allowed before the game ends.
+* 
+*			Minimum range of nummbers is 10
+*			Minimum number of guesses is 5
+*
+*/
+
+//System Libraries
+
+//Declare Variables
+
+//Prompt user for range of numbers
+//Input validation checking number range
+
+//Seeding random number
+//Generate random number for answer
+
+//Prompt user for number of attempts
+//Input validation checking for valid attempts
+
+
+//For loop to iterate each attempt
+//If-Else to to check if the guess is not equal to answer or if the guess was correct
+//Nested if-else if guess was to high or two low and display result of guess if wrong
+
+//Compound number of attempts against actually attempts
+
+//If statement to test if user runs out of attempts to end the game
+
+//Output correct answer and thank user for playing
